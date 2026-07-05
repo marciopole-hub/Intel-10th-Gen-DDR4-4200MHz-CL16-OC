@@ -1,3 +1,4 @@
+<img width="2559" height="1439" alt="Do github" src="https://github.com/user-attachments/assets/cc4e7a55-7c96-4294-998e-6ea53c7d4e96" />
 # Intel-10th-Gen-DDR4-4200MHz-CL16-OC
 Intel 10th-Gen DDR4 4200MHz CL16 OC 
 # Intel Core i5-10600KF @ 5.1GHz + DDR4 4200MHz CL16 Overclock & Undervolt

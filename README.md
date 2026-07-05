@@ -1,0 +1,2 @@
+# Intel-10th-Gen-DDR4-4200MHz-CL16-OC
+Intel 10th-Gen DDR4 4200MHz CL16 OC 
